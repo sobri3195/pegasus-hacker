@@ -19,7 +19,7 @@ Pegasus Hacker
 ## Cara Instalasi
 
 1. Clone repository ini:
-   git clone https://github.com/<username>/pegasus-hacker.git
+   git clone https://github.com/sobri3195/pegasus-hacker.git
    cd pegasus-hacker
 
 2. Install dependencies:
