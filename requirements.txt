@@ -1,0 +1,3 @@
+gitpython
+shodan
+requests
